@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "367455301377",
+    "project_id": "flower-91fa6",
+    "storage_bucket": "flower-91fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367455301377:android:eccdbd2facbfbd0b103500",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367455301377-8kon0mmvgsukfhocgst2drcpmouute9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATe-dheA4GrpVy36CE1ZEDZlXA76LBX3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367455301377-8kon0mmvgsukfhocgst2drcpmouute9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367455301377:android:d6a209c4412363df103500",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367455301377-8kon0mmvgsukfhocgst2drcpmouute9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATe-dheA4GrpVy36CE1ZEDZlXA76LBX3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367455301377-8kon0mmvgsukfhocgst2drcpmouute9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
